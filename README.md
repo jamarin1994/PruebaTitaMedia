@@ -1,5 +1,5 @@
 
-### `yarns install`
+### `yarn install`
 Comando para ejecutar dependencias.
 
 ### `npm start`
